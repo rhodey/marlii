@@ -1,0 +1,24 @@
+{
+  "name": "marlii",
+  "version": "0.0.1",
+  "description": "markdown to html util.",
+  "main": "index.js",
+  "bin": {
+    "marlii": "bin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rhodey/marlii.git"
+  },
+  "homepage": "https://github.com/rhodey/marlii",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "marli": "^2.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "markdown",
+    "html",
+    "marli"
+  ]
+}
